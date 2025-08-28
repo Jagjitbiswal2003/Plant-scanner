@@ -1,4 +1,4 @@
 #Project Output
 
-![PlantDashboard](../public/PlantDashboard.png)
-![Result](../public/Result.png)
+![PlantDashboard](plant-scanner/public/PlantDashboard.png)
+![Result](plant-scanner/public/Result.png)
